@@ -1,0 +1,15 @@
+src/
+├── assets/               # Изображения и ресурсы
+├── components/           # Компоненты
+│   ├── Header.vue        # Шапка сайта
+│   ├── Footer.vue        # Подвал сайта
+│   ├── MovieCard.vue     # Карточка фильма
+│   ├── MovieDetails.vue  # Детали фильма
+├── pages/                # Страницы
+│   ├── HomePage.vue
+│   ├── MoviePage.vue
+│   ├── ContactsPage.vue
+├── router/               # Маршруты
+│   └── index.js
+├── App.vue               # Главный компонент
+└── main.js               # Точка входа
