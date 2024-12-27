@@ -22,7 +22,11 @@ export default {
         { id: 3, title: 'Зеленая книга', poster: '/public/green-book.jpeg' },
         { id: 4, title: 'В Погоне за счастьем', poster: '/public/will.webp' },
         { id: 5, title: 'Гладиатор', poster: '/public/gladiator.jpg' },
-        { id: 6, title: 'Темный Рыцарь 2008г', poster: '/public/BatMan2008.jpg' },
+        { id: 6, title: 'Темный Рыцарь', poster: '/public/BatMan2008.jpg' },
+        { id: 7, title: '1+1', poster: '/public/1+1.jpg' },
+        { id: 8, title: 'Интерстеллар', poster: '/public/interstellar.jpg' },
+        { id: 9, title: 'Форест Гамп', poster: '/public/gamp.webp' },
+        { id: 10, title: 'Зеленая Миля', poster: '/public/green-mile.webp' },
       ],
     };
   },

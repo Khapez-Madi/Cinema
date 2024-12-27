@@ -12,11 +12,10 @@ export default {
   props: ['movie'],
   methods: {
     viewDetails() {
-      // Переход на страницу фильма по его ID
       this.$router.push(`/movie/${this.movie.id}`);
     },
     buyTicket() {
-      alert('Билет куплен!');
+      this.$router.push('/purchase');
     },
   },
 };

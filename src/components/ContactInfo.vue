@@ -1,8 +1,8 @@
 <template>
   <div class="contacts">
     <h1>Контакты</h1>
-    <p><strong>Адрес:</strong> ул. Примерная, 123</p>
-    <p><strong>Телефон:</strong> +7 (123) 456-78-90</p>
+    <p><strong>Адрес:</strong> ТЦ Хан Шатыр</p>
+    <p><strong>Телефон:</strong> +7 (775) 538-80-61</p>
     <div id="map">[Карта]</div>
   </div>
 </template>
@@ -12,6 +12,5 @@ export default {};
 </script>
 
 <style>
-/* .contacts {
-} */
+
 </style>
